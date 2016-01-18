@@ -1,6 +1,6 @@
 name: TINIKI
 favicon: null
-layout_spectrum: 0.26035213004797697
+layout_spectrum: 0.26803
 typography_spectrum: 0.4272260731086135
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5828129420988262
-  lightness: 0.7961624949239194
-  saturation: 0.3546532781329006
-  rhythmicContrast: 0.6459750281646848
+    - '#114278'
+    - '#70a3c4'
+    - '#8a7860'
+    - '#e9b2b5'
+    - '#00010d'
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
