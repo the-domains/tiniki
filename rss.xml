@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TINIKI]]></title>
         <description><![CDATA[TINIKI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tiniki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 00:02:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 00:47:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tiniki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Weekend winery trip</p>]]></description>
+            <link>https://thegrid.ai/tiniki/7be9f329-3c00-4887-a2c7-35c29b7212cc/index.html</link>
+            <guid isPermaLink="false">7be9f329-3c00-4887-a2c7-35c29b7212cc</guid>
+            <pubDate>Mon, 18 Jan 2016 00:40:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weekend trip 16/01/2016]]></title>
             <description><![CDATA[<article><h1>Weekend trip 16/01/2016</h1><p>Weekend trip</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a9d7fd96984230a57565842da01caf78d446cbd.jpg"></article>]]></description>
-            <link>undefinedweekend-trip-16012016/index.html</link>
+            <link>https://thegrid.ai/tiniki/weekend-trip-16012016/index.html</link>
             <guid isPermaLink="false">6cb66e42-0883-4757-8da1-071863929f99</guid>
             <pubDate>Mon, 18 Jan 2016 00:02:42 GMT</pubDate>
         </item>
