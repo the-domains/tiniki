@@ -1,28 +1,40 @@
-name: TINIKI
+layout_spectrum: 0.3276596
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.4272260731086135
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: TINIKI
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5625
+  lightness: 0.6659575
+  saturation: 0.6680851
+  rhythmicContrast: 0.4510638
   brandColors:
     - '#114278'
     - '#70a3c4'
     - '#8a7860'
     - '#e9b2b5'
     - '#00010d'
-  brandStrength: 0.5625
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.4106383
