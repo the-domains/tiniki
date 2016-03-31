@@ -1,7 +1,7 @@
 name: TINIKI
 favicon: null
-layout_spectrum: 0.3276596
-typography_spectrum: 0.4106383
+layout_spectrum: 0.30207
+typography_spectrum: 0.13899
 collections:
   - index:
       navigable: true
