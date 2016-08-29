@@ -1,7 +1,30 @@
-name: TINIKI
-favicon: null
-layout_spectrum: 0.30207
 typography_spectrum: 0.13899
+color:
+  brandColors:
+    - '#114278'
+    - '#70a3c4'
+    - '#8a7860'
+    - '#e9b2b5'
+    - '#00010d'
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.30207
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TINIKI
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -14,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#114278'
-    - '#70a3c4'
-    - '#8a7860'
-    - '#e9b2b5'
-    - '#00010d'
-  brandStrength: 0.75
-  lightness: 0.1875
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+title: 家
 purpose: []
