@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Beautychef
+description: 家-心之所向
 purpose: []
